@@ -1,6 +1,8 @@
 from setuptools import setup, find_packages
 import os
 
+# for nothing
+
 VERSION = '0.0.1'
 DESCRIPTION = 'Some Kits'
 
